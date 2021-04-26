@@ -1,0 +1,12 @@
+Dependencies for Project 'Lab7_new', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x54352CD6)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Users\Nick\Downloads\Lab_Lessons_Source\Lab_Lessons_Source\Lab7_SOS\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-D_RTE_ -DTM4C123GH6PM-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+F (RTE\Device\TM4C123GH6PM\startup_TM4C123.s)(0x51B6F216)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Users\Nick\Downloads\Lab_Lessons_Source\Lab_Lessons_Source\Lab7_SOS\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (RTE\Device\TM4C123GH6PM\system_TM4C123.c)(0x54352D8D)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Users\Nick\Downloads\Lab_Lessons_Source\Lab_Lessons_Source\Lab7_SOS\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-D_RTE_ -DTM4C123GH6PM-o .\system_tm4c123.o --omf_browse .\system_tm4c123.crf --depend .\system_tm4c123.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53469CB4)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123\TM4C123.h)(0x530F0F16)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x530F0F16)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h)(0x53848936)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x53031350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x53031350)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h)(0x53031350)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6F216)
